@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="parkTypes">
+        <item >All</item>
+        <item >Civic Plaza or Square</item>
+        <item >Community Garden</item>
+        <item >Concession</item>
+        <item >Family Camp</item>
+        <item >Mini Park</item>
+        <item >Neighborhood Park or Playground</item>
+        <item >Parkway</item>
+        <item >Regional Park</item>
+        <item >Zoological Garden</item>
+    </string-array>
+    
+</resources>

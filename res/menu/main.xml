@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.paul.sanfransiscoparktrips.MainActivity" >
+
+    <item
+        android:id="@+id/gpsLicense"
+        android:orderInCategory="100"
+        android:title="Google Play License"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/bike"
+        android:title="Bike"
+        android:icon="@drawable/ic_bike_icon"
+        app:showAsAction="always"/>
+
+</menu>
